@@ -1,0 +1,22 @@
+{
+    "ArrID" : [
+        "11001",
+        "21001",
+        "21002"
+    ],
+    "ArrGroup" : [
+        "Login",
+        "Game",
+        "Game"
+    ],
+    "ArrHost" : [
+        "localhost",
+        "localhost",
+        "localhost"
+    ],
+    "ArrPort" : [
+        "11001",
+        "21001",
+        "21002"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "AppVersion" : "1.0.0",
+    "NoticeFileURL" : "http://localhost:10001/notice",
+    "ServerListFileURL" : "http://localhost:10001/serverlist",
+    "DownloadAppURL" : "http://localhost:10001/downloadapp"
+}
